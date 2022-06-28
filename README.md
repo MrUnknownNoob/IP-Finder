@@ -6,4 +6,4 @@ pip install requests<br>
 pip install socket<br>
 git clone https://github.com/mrwnknown/IP-Finder<br>
 cd IP-Finder<br>
-python2 IP Finder.py<br>
+python2 'IP Finder.py'<br>
