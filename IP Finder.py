@@ -21,7 +21,7 @@ print('''
 
 ''')
 
-select = raw_input("Select A Number :")
+select = input("Select A Number :")
 
 if(select == '1'):
     hostname = socket.gethostname()
